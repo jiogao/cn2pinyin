@@ -1,0 +1,1 @@
+.\cn2pinyin.bat [dir_path]
